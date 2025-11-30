@@ -1,0 +1,2 @@
+# biosamat
+biosmart o'yini
